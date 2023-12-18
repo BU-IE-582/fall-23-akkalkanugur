@@ -6,7 +6,7 @@
 * [HW1_Q](HW1/IE582_Fall23_tutorial.pdf)
 
 ### Homework - 2
-* [HW2_data_files](xx)
+* [HW2_data_files](derma.csv)
 * [HW2_Answers](xx)
 
 
