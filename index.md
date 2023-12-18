@@ -5,9 +5,9 @@
 * [HW1_html](HW1/HW1.html)
 * [HW1_Q](HW1/IE582_Fall23_tutorial.pdf)
 
-### Homework - 1
-* [HW1_data_files](xx)
-* [HW1_Answers](xx)
+### Homework - 2
+* [HW2_data_files](xx)
+* [HW2_Answers](xx)
 
 
 ### My Journal
