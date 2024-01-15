@@ -10,5 +10,5 @@
 
 
 ### Final Project
-* [Project Report]("IE 582 - Project.pdf")
+* [Project Report](ProjectReport.pdf)
 * [Project Codes](FinalProject.html)
