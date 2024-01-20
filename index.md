@@ -8,6 +8,8 @@
 * [HW2_data_files](derma.csv)
 * [HW2_Answers](HW2.html)
 
+### Homework - 3
+* [HW3](HW3.html)
 
 ### Final Project
 * [Project Report](ProjectReport.pdf)
